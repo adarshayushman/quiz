@@ -1,0 +1,15 @@
+.quiz {
+  border: 10px solid purple;
+  padding: 50px;
+  margin: 20px;
+}
+input[type="submit"],
+input[type="reset"],
+input[type="text"] {
+  width: 40%;
+  background-color: #e8d0f4;
+  border: 1px solid black;
+}
+.error {
+  color: red;
+}
